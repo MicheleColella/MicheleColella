@@ -1,9 +1,16 @@
 ![MasterHead](https://cdn.geekwire.com/wp-content/uploads/2023/09/09-2023_Blog_Hero-image_Penguin_Option-3-1230x410-1.jpeg)
-<h1 align="center">Hi 👋, I'm Michele</h1>
+<h1 align="center">Michele Colella</h1>
 <h3 align="center">Passionate developer with a focus on game mechanics and application development, enhanced by a strong inclination towards 3D graphics.</h3>
 <img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelecolella&label=Profile%20views&color=0e75b6&style=flat" alt="michelecolella" /> </p>
+
+<p align="left">
+      <a href="https://github.com/michelecolella?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/michelecolella?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/michelecolella?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/michelecolella?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 - 🌱 I’m currently learning **Swift**
 
