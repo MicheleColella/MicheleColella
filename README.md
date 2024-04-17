@@ -1,8 +1,6 @@
 ![MasterHead](https://cdn.geekwire.com/wp-content/uploads/2023/09/09-2023_Blog_Hero-image_Penguin_Option-3-1230x410-1.jpeg)
 <h1 align="center">Michele Colella</h1>
-<h2 align="center">Developer | Game Mechanics Enthusiast | 3D Graphics Innovator</h2>
-
-<img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
+<h2 align="center">App Developer | Game Mechanics Enthusiast | 3D Graphics Innovator</h2>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=michelecolella&label=Profile%20views&color=0e75b6&style=flat" alt="michelecolella" /> 
@@ -18,13 +16,13 @@
 </p>
 
 ### 👋 Introduction
-Hi, I'm Michele Colella, a developer driven by a passion for creating engaging game mechanics and robust applications. With a passion for 3D graphics, I bring my ideas to life, enhancing user experiences across digital landscapes. Follow my journey as I explore new technologies, share insights and collaborate on innovative projects.
+Hello, my name is Michele Colella and I am a developer with a deep passion for creating engaging game mechanics and developing robust applications. Fueled by my enthusiasm for 3D graphics and virtual reality, I turn my creative concepts into reality, enhancing user interactions in various digital environments, including the immersive world of VR apps.
 
 ### 🌱 I'm currently learning
-- Swift for iOS development to bring interactive experiences to mobile platforms.
-
+- Swift for iOS development to bring interactive experiences to mobile platforms. It is about mastering this robust and intuitive programming language to develop applications that are not only functional but also engaging for users. By focusing on Swift, I plan to leverage its powerful capabilities to create dynamic and fluid interfaces on Apple devices, enhancing the overall user experience.
+  
 ### 💬 Ask me about
-- Unity, 3D graphics, and how I integrate these tools to develop engaging game mechanics.
+- Unity, the power of 3D graphics, and how I use Swift in conjunction with these tools to develop mechanics specifically for iOS mobile apps and games, with the goal of captivating users with an innovative experience.
 
 ### 📫 How to reach me
 - Email: michelecolella0@gmail.com
@@ -33,7 +31,7 @@ Hi, I'm Michele Colella, a developer driven by a passion for creating engaging g
 Since I got my first Mac, it has become more than a faithful companion; it has revolutionised and simplified my daily organisation - impossible to think of parting with it!
 
 ### 🤝 Collaboration
-I'm open to contributing to Unity projects and exploring innovative 3D graphic applications.
+I am eager to contribute my skills to projects and actively seek opportunities to explore innovative applications, with the goal of pushing the boundaries of technology and creativity in my work.
 
 ### 💻 Languages
 <p align="left"> 
@@ -45,7 +43,6 @@ I'm open to contributing to Unity projects and exploring innovative 3D graphic a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  
 </p>
 
 ### 🛠 Tools
