@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.geekwire.com/wp-content/uploads/2023/09/09-2023_Blog_Hero-image_Penguin_Option-3-1230x410-1.jpeg)
+<!---![MasterHead](https://cdn.geekwire.com/wp-content/uploads/2023/09/09-2023_Blog_Hero-image_Penguin_Option-3-1230x410-1.jpeg)--->
 <h1 align="center">Michele Colella</h1>
 <h2 align="center">App Developer | Game Mechanics Enthusiast | 3D Graphics Innovator</h2>
 
